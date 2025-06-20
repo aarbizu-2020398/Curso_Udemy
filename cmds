@@ -1,0 +1,18 @@
+npm install -g expo-cli@latest
+
+npm install @react-navigation/native
+npm install react-native-vector-icons
+
+
+npm i -g @expo/ngrok@^4.1.0
+
+
+//for bottom bar 
+npm install @react-navigation/native @react-navigation/bottom-tabs
+npm install react-native-screens react-native-safe-area-context
+
+
+//ecom appp
+npm install @react-navigation/native @react-navigation/stack
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
